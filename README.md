@@ -1,5 +1,8 @@
 # Retinal-Vessel-Segmentation
-Retinal Vessel Segmentation using Python & OpenCV-based machine learning algorithm. From input image to output I performed the following set of operations.
+Retinal Vessel Segmentation using Python & OpenCV-based machine learning algorithm. 
+![Alt text](https://github.com/danial-shehroz-khan/Retinal-Vessel-Segmentation/blob/main/Results.jpeg?raw=true "Results")
+
+From input image to output I performed the following set of operations.
  
 # Input: Fundus Image
 
